@@ -1,0 +1,477 @@
+[
+  {
+    "id":"CC1.",
+    "title":"Criticism of climate policies",
+    "description":"Statements that question the effectiveness, economic impact, or motives behind climate policies. e.g. \"It is all because of the decision to switch to electric.\""
+  },
+  {
+    "id":"CC1.1",
+    "title":"Climate policies are ineffective",
+    "description":"Statements suggesting that climate policies fail to achieve their intended environmental goals. There is absolutely no point in bannign straws, it can even have the opposite effect."
+  },
+  {
+    "id":"CC1.2",
+    "title":"Climate policies have negative impact on the economy",
+    "description":"Statements claiming that climate policies lead to negative economic outcomes. e.g. \"Decision to tax gas emmissions is only going to make us pay more and cause a recession.\""
+  },
+  {
+    "id":"CC1.3",
+    "title":"Climate policies are only for profit",
+    "description":"Statements that argue climate policies are driven by financial or corporate gain rather than genuine environmental concerns. e.g. \"Nobody really cares about the air to be clean. It is all a new ESG trick to sell more turbines.\""
+  },
+  {
+    "id":"CC2.",
+    "title":"Criticism of institutions and authorities",
+    "description":"tatements that challenge the competence, integrity, or intentions of various institutions and authorities in relation to climate change"
+  },
+  {
+    "id":"CC2.1",
+    "title":"Criticism of the EU",
+    "description":"Statements that express disapproval or distrust of the EU’s role or approach to climate change or the EU in general. e.g. \"Climate goals are simply a fixation of the unelected Brussels bureaucracy. All the fuss about climate change and restrictions to our freedoms come from them.\""
+  },
+  {
+    "id":"CC2.2",
+    "title":"Criticism of international entities",
+    "description":"Statements that criticize the role and influence of international entities on climate policy. e.g. \"The UN agency for climate is mandating changes in our daily emmissions profile but their studies are completely unfounded in reality.\""
+  },
+  {
+    "id":"CC2.3",
+    "title":"Criticism of national governments",
+    "description":"Statements that disapprove of the ways national governments handle climate change. e.g. \"It is clear that the government ministry has no plan and is improvising imposing arbirtary rules.\""
+  },
+  {
+    "id":"CC2.4",
+    "title":"Criticism of political organizations and figures",
+    "description":"Statements that discredit political organizations and figures in the context of climate change debate. e.g. \"Environment minister C. is clearly a climate fanatic and we shall not entrust him taking decisions that hugely impact our economy.\""
+  },
+  {
+    "id":"CC3.",
+    "title":"Climate change is beneficial",
+    "description":"Statements that present arguments that support that changes in climate can have positive effects as well."
+  },
+  {
+    "id":"CC3.1",
+    "title":"CO2 is beneficial",
+    "description":"Statements suggesting that increased CO2 levels have positive impacts on the environment. e.g. \"A new study counters traditional though and discovered that more CO2 is actually positive in the long-term.\""
+  },
+  {
+    "id":"CC3.2",
+    "title":"Temperature increase is beneficial",
+    "description":"Statements claiming that rising global temperatures canhave positive effects. e.g. \"A new study focused on the increased profits from a longer summer due to climate change.\""
+  },
+  {
+    "id":"CC4.",
+    "title":"Downplaying climate change",
+    "description":"Statements that minimize the significance or impact of climate change."
+  },
+  {
+    "id":"CC4.1",
+    "title":"Climate cycles are natural",
+    "description":"Statements suggesting that climate change is a natural and cyclical occurrence. e.g. \"The climate is changing in regular intervals across centuries. It is nothing new.\""
+  },
+  {
+    "id":"CC4.2",
+    "title":"Weather suggests the trend is global cooling",
+    "description":"Statements using local or short-term weather patterns to argue against global warming. e.g. \"I practice, the opposite is happening, climate is cooling."
+  },
+  {
+    "id":"CC4.3",
+    "title":"Temperature increase does not have significant impact",
+    "description":"Statements claiming that the increase in temperature is not going to have any noticeable effect in nature. e.g. \"I practice, the changes in a few degrees have absolutely no impact on our lives.\""
+  },
+  {
+    "id":"CC4.4",
+    "title":"CO2 concentrations are too small to have an impact",
+    "description":"Statements claiming that the concentrations of CO2 will have a negligible effect. e.g. \"Compared to oxygen produced by nature itself, the CO2 from humans are negligible.\""
+  },
+  {
+    "id":"CC4.5",
+    "title":"Human activities do not impact climate change",
+    "description":"Statements that support that climate change is not caused by human activity. e.g. \"Nature has its ways and we-humans- are simple not enough to produce any meaningful change.\""
+  },
+  {
+    "id":"CC4.6",
+    "title":"Ice is not melting",
+    "description":"Statements claiming that there is not melting of ice. e.g. \"If you look carefully at the satelitte images you can see that ice has not melted, just moved.\""
+  },
+  {
+    "id":"CC4.7",
+    "title":"Sea levels are not rising",
+    "description":"Statements denying that sea levels have risen (or will rise). e.g. \"Even with all the catastrophising, there are no data showing rising sea levels on average.\""
+  },
+  {
+    "id":"CC4.8",
+    "title":"Humans and nature will adapt to the changes",
+    "description":"Statements claiming that whatever the changes in climate humans or nature will manage to find solutions to adapt. e.g. \"It might create a few challenges here and there, but we will invest in some technology and will handle the effects easily."
+  },
+  {
+    "id":"CC5.",
+    "title":"Questioning the measurements and science",
+    "description":"Statements that raise doubts about the scientific methods, data, and consensus on climate change."
+  },
+  {
+    "id":"CC5.1",
+    "title":"Methodologies\/metrics used are unreliable\/faulty",
+    "description":"Statements claiming that the scientific methodologies and metrics used to measure climate change are flawed or unreliable. e.g. \"The way they measure the data is completely false and misleading. Scientist X debunked it easily by...\""
+  },
+  {
+    "id":"CC5.2",
+    "title":"Data shows no temperature increase",
+    "description":"Statements asserting that available data does not support the claim of global temperature increase. e.g. \"Temperature measurements are using faulty equipment and are alarming the world with lied.\""
+  },
+  {
+    "id":"CC5.3",
+    "title":"Greenhouse effect\/carbon dioxide do not drive climate change",
+    "description":"Statements asserting that available data does not support the claim of global temperature increase. e.g. \"Studies have repeatedly shown that CO2 impact is not correlated with global warming and this is a misconception."
+  },
+  {
+    "id":"CC5.4",
+    "title":"Scientific community is unreliable",
+    "description":"Statements discrediting scientists, the scientific community and their actions. e.g. \"It is a feature of the scientific establishment to overemphasize speculations of climate collapse and silence critics."
+  },
+  {
+    "id":"CC6.",
+    "title":"Criticism of climate movement",
+    "description":"Statements that challenge the motives, integrity, or impact of the climate movement. e.g. \"It is a feature of the scientific establishment to overemphasize speculations of climate collapse and silence critics.\""
+  },
+  {
+    "id":"CC6.1",
+    "title":"Climate movement is alarmist",
+    "description":"Statements suggesting that the climate movement exaggerates the severity of climate change for dramatic effect. e.g. \"The problem with climate hysteria is that it has become so unopposed in activist circles that everybody believes we will be under the sea in a few years.\""
+  },
+  {
+    "id":"CC6.2",
+    "title":"Climate movement is corrupt",
+    "description":"Statements alleging that the climate movement is influenced by ulterior motives, by corruption or by unethical practices. e.g. \"The climate protests are not about climate but a gateway drug to communist and radical ideas.\""
+  },
+  {
+    "id":"CC6.3",
+    "title":"Ad hominem attacks on key activists",
+    "description":"Statements attacking the reputation of key figures (suchas scientists, activists, politicians or public figures). e.g. \"Greta Thunberg has not worked half a day of her life, but is making claims why I need to change my diet to plant-based.\""
+  },
+  {
+    "id":"CC7.",
+    "title":"Controversy about green technologies",
+    "description":"Statements that express skepticism or criticism of environmentally friendly technologies."
+  },
+  {
+    "id":"CC7.1",
+    "title":"Renewable energy is dangerous",
+    "description":"Statements claiming that renewable energy sources pose significant risks or dangers. e.g. \"Solar panels and wind turbines are way worse that coal if you consider how poisonous their materials are.\""
+  },
+  {
+    "id":"CC7.2",
+    "title":"Renewable energy is unreliable",
+    "description":"Statements asserting that renewable energy sources are not dependable for widespread adoption. e.g. \"What will you do if you are freezing in the winter when there isn’t sun for weeks? Rely on solar? I don’t think so.\""
+  },
+  {
+    "id":"CC7.3",
+    "title":"Renewable energy is costly",
+    "description":"Statements asserting that renewable energy sources are too expensive, inefficient and worth adopting for widespread use. e.g. \"They are pushing us to spend our hard earned money to price-inflated electric cars and are increasing the price of gas through carbon taxes.\""
+  },
+  {
+    "id":"CC7.4",
+    "title":"Nuclear energy is not climate friendly",
+    "description":"Statements asserting that nuclear sources are or should not be considered as good for the climate. e.g. \"And they are calling nuclear energy, the type that produced the saddest almost world-ending disasters as better than coal. This is hypocrisy.\""
+  },
+  {
+    "id":"CC8.",
+    "title":"Hidden plots by secret schemes of powerful groups",
+    "description":"Statements that propose secret plots or hidden agendas related to climate change initiated by powerful entities or groups."
+  },
+  {
+    "id":"CC8.1",
+    "title":"Blaming global elites",
+    "description":"Statements attributing climate change agendas to secretive and powerful global elites. e.g. \"Everything is a plan by the WEF elites, to force the green agenda on regular people that in turn will have to sacrifice their jobs and quality of life."
+  },
+  {
+    "id":"CC8.2",
+    "title":"Climate agenda has hidden motives",
+    "description":"Claims that the push for climate action is driven by ulterior motives, such as political power or population control. e.g. \"Everything is a plan by the WEF elites, to force the green agenda on regular people that in turn will have to sacrifice their jobs and quality of life.\""
+  },
+  {
+    "id":"CC9.",
+    "title":"Amplifying Climate Fears",
+    "description":"Statements that emphasize and amplify fears about the consequences of climate change."
+  },
+  {
+    "id":"CC9.1",
+    "title":"Earth will be uninhabitable soon",
+    "description":"Statements predicting that the Earth will become uninhabitable in the near future due to climate change. e.g. \"With current emissions rate we will not be able to survive what is coming.\""
+  },
+  {
+    "id":"CC9.2",
+    "title":"Amplifying existing fears of global warming",
+    "description":"Statements that are using fears related to warming of the earths surface and atmosphere and speculating on side effects to spread panic. e.g. \"Be prepared, it is certain that unless we do something drastic about warming in tropical regions, viruses and bacteria from these regions will be uncontrolled.\""
+  },
+  {
+    "id":"CC9.3",
+    "title":"Doomsday scenarios for humans",
+    "description":"Statements presenting intense catastrophic scenarios as results of climate change. e.g. \"It is not overstretching to state that in the next decades, the principal death reason will be climate change, few will survive.\""
+  },
+  {
+    "id":"CC9.4",
+    "title":"Whatever we do it is already too late",
+    "description":"Statements that minimize the urgency of addressing climate change by suggesting that any action taken at this point is futile or too late to make a meaningful impact. e.g. \"Environmentalist are trying to protect us for years but the current state of carbon in the atmosphere is already past most thresholds. We have to feel the consequences, no matter what we do.\""
+  },
+  {
+    "id":"CC10.",
+    "title":"Green policies are geopolitical instruments",
+    "description":"Statements claimin that that environmental policies and initiatives are used as tools for geopolitical power and influence rather than genuine environmental concern."
+  },
+  {
+    "id":"CC10.1",
+    "title":"Climate-related international relations are abusive\/exploitative",
+    "description":"Statements criticizing international relations related to climate change as exploitative or economically abusive. e.g. \"Nobody cares about the impact of carbon in the climate, it is only a trick of some governments to impose rules on weaker nations to protect their profits.\""
+  },
+  {
+    "id":"CC10.2",
+    "title":"Green activities are a form of neo-colonialism",
+    "description":"Statements suggesting that green initiatives are a way for developed countries to exert control and influence over developing nations, a modern form of colonial practices. e.g. \"When Western countries invest in ’green’ initiatives in Africa, they are just washing their neo-colonialist interests.\""
+  },
+  {
+    "id":"URW1.",
+    "title":"Blaming the war on others rather than the invader",
+    "description":"Statements attributing responsibility or fault to entities other than Russia in the context of Russia’s invasion of Ukraine. Look for direct or implied statements that shift blame away from Russia. Consider who is being held responsible for negative events or situations. e.g. \"The economic crisis is due to Western sanctions.\", \"Ukraine’s actions provoked this conflict.\""
+  },
+  {
+    "id":"URW1.1",
+    "title":"Ukraine is the aggressor",
+    "description":"Statements that shift the responsibility of the aggression to Ukraine instead of Russia and portray Ukraine as the attacker. \"Ukraine secretly provoked the war because it was harassing Donbass province citizens.\""
+  },
+  {
+    "id":"URW1.2",
+    "title":"The West are the aggressors",
+    "description":"Statements that shift the responsibility for the conflict and escalation to the Western block. Look for direct or implied statements that mention that this conflict was a direct consequence of actions taken by the West. Consider who is being held responsible for negative events or situations. e.g. The real perpetrators were US\/EU. They sabotaged Minsk II agreement only to force Russia to invade"
+  },
+  {
+    "id":"URW2.",
+    "title":"Discrediting Ukraine",
+    "description":"Statements that undermine the legitimacy, actions, or intentions of Ukraine or Ukrainians as a nation. Look for direct or implied statements that attack some aspect of the Ukrainian society. e.g. \"Ukraine’s government is corrupt and ineffective\", \"Ukrainian soldiers are committing atrocities\", \"Ukrainian identity does not exist\"."
+  },
+  {
+    "id":"URW2.1",
+    "title":"Rewriting Ukraine’s history",
+    "description":"Statements that aim to reestablish history of Ukrainian nation in a way that discredits its reputation. e.g. \"Ukraine is not a real nation, it was a fabrication to split Russia and ally with Hitler.\""
+  },
+  {
+    "id":"URW2.2",
+    "title":"Discrediting Ukrainian nation and society",
+    "description":"Statements that aggressively undermine the legitimacy and reputability of Ukrainian ethnicity and people. Use this only is case that the subject of the attack is the people of Ukraine, or in case of generalizations. e.g. \"The traitorous attitude is not a characteristic of the Ukrainian elite, but deeply embedded to the consiousness of the average Ukrainian.\""
+  },
+  {
+    "id":"URW2.3",
+    "title":"Discrediting Ukrainian military",
+    "description":"Statements that aim to undermine the capabilities, professionalism or effectiveness of the Ukrainian armed forces. e.g. \"Ukraine’s military lacks basic training and equipment. They are launching hopeless attacks on the front while their corrupt officers claim false successes\""
+  },
+  {
+    "id":"URW2.4",
+    "title":"Discrediting Ukrainian government and officials and policies",
+    "description":"Statements that seek to delegitimize the Ukrainian government, its leaders, and its policies, portraying them as corrupt or incompetent. Use this only is case that the subject of the attack is the leaders of Ukraine or some of their specific policy decisions. e.g. \"Ukraine’s leadership is constantly and hopelessly asking for more support and ammunition without any progress, making a fool of themselves and showing who they really are\""
+  },
+  {
+    "id":"URW2.5",
+    "title":"Ukraine is a puppet of the West",
+    "description":"Claims that Ukraine is controlled or heavily influenced by Western powers, particularly the United States and European Union. e.g. \"If you ask a Ukrainian official to explain why they did this, they wont know how to answer. He is not making the decision anyway, he is just implementing what NATO tells him to do, and what is in line with western interests.\""
+  },
+  {
+    "id":"URW2.6",
+    "title":"Ukraine is a hub for criminal activities",
+    "description":"Allegations that Ukraine is a center for illegal activities such as human trafficking, drug smuggling, or organized crime. e.g. \"Ukraine’s urge to fund this failing war in combination with their high corruption has resulted in a safe heaven for all sort of criminals and weapons smugglers.\""
+  },
+  {
+    "id":"URW2.7",
+    "title":"Ukraine is associated with nazism",
+    "description":"Accusations that Ukrainian society or government has ties to or sympathies with Nazi ideology, often referencing historical events or extremist groups. This can go with discrediting Ukrainian nation, but should be used with any mention or hint of sympathy or association with (neo-)Nazism, historical or not. e.g. \".. and of course this is not going to fly with current Ukrainian government. Their deep neo-nazi ideology would never allow that\""
+  },
+  {
+    "id":"URW2.8",
+    "title":"Situation in Ukraine is hopeless",
+    "description":"Statements that portray Ukraine as having no viable perspectives or no potential positive future. e.g. \"Ukraine should just give up, it is all over debt and will be exploited by the West anyway.\""
+  },
+  {
+    "id":"URW3.",
+    "title":"Russia is the Victim",
+    "description":"Statements that portray Russia as being unfairly targeted or victimized. Look for narratives that depict Russia as suffering unjust consequences. Focus on  language that evokes sympathy for Russia’s position. e.g. \"Russia is being unfairly sanctioned.\", \"The West is ganging up on Russia without justification.\", \"Russia is doing what every country would do (e.g. protect its interests\/honour etc.)\""
+  },
+  {
+    "id":"URW3.1",
+    "title":"The West is russophobic",
+    "description":"Statements that claim that the negative reaction to Russia’s actions are because of the negative perspective of western countries instead of Russia’s own actions. e.g. \"Politicians in the West blame Russia for everything, instead of looking at their mistakes.\", \"In Country X, they banned Tchaikovsky ballets and Chechov’s plays because they cannot stand Russia and its culture.\""
+  },
+  {
+    "id":"URW3.2",
+    "title":"Russia actions in Ukraine are only self-defence",
+    "description":"Statements that justify Russia’s action solely as legitimate self-defence and not a deliberate action. e.g. \"There was no other way than war to defend the Russian-speaking people in Donbass.\""
+  },
+  {
+    "id":"URW3.3",
+    "title":"UA is anti-RU extremists",
+    "description":"Statements claiming that Ukraine is comprised of extremist elements that are vehemently opposed to Russia."
+  },
+  {
+    "id":"URW4.",
+    "title":"Praise of Russia",
+    "description":"Statements that positively highlight Russia’s actions, policies, or character. Identify expressions of admiration, support, or positive evaluation of Russia. Consider both explicit praise and subtle commendation. e.g. \"Russia is leading the way in international diplomacy.\", \"The Russian economy is resilient and strong.\", \"Glorifying mentions of Russia’s weapon systems and military might\"."
+  },
+  {
+    "id":"URW4.1",
+    "title":"Praise of Russian military might",
+    "description":"Statements that positively highlight Russia’s military institutions, equipment and scale. e.g. \"Russia has far more tanks and powerful artillery that US\/EU would only dream of.\""
+  },
+  {
+    "id":"URW4.2",
+    "title":"Praise of Russian President Vladimir Putin",
+    "description":"Statements that present Vladimir Putin positively, including his personal and leadership qualities. e.g. \"Any country would want such a strong leader as Putin to lead the way.\""
+  },
+  {
+    "id":"URW4.3",
+    "title":"Russia is a guarantor of peace and prosperity",
+    "description":"Statements that portray Russia solely in a positive manner, emphasising their potential to provide peace and prosperity to those that cooperate. e.g. \"Take a look at Africa, Russia supports countries and turns them into independent nations guided by their people’s interests where Western countries colonised brutally.\""
+  },
+  {
+    "id":"URW4.4",
+    "title":"Russia has international support from a number of countries and people",
+    "description":"Statements that emphasise the popularity and acceptance of Russia in the international stage. e.g. \"The majority of the countries population sides with Russia as per last UN General Assembly vote.\""
+  },
+  {
+    "id":"URW4.5",
+    "title":"Russian invasion has strong national support",
+    "description":"Statements that emphasise the popularity and acceptance of the invasion inside Russia and on Russian-speaking populations. Use this only when there is mention to the Russian population or the segment of the population in Ukraine that supports Russia. e.g. \"What the media does not want you to know is that Russians are almost 100% in favor of the war."
+  },
+  {
+    "id":"URW5.",
+    "title":"Overpraising the West",
+    "description":"Statements that excessively and unduly laud or extol the virtues, accomplishments, and moral superiority of Western countries, particularly in the context of international relations and military."
+  },
+  {
+    "id":"URW5.1",
+    "title":"NATO will destroy Russia",
+    "description":"Statements that suggest or claim that the North Atlantic Treaty Organization (NATO) and its allies are capable or already in the process of eradicating Russia. e.g. \"After the invasion it is now clear what a mess Russia and its military is. It wouldn’t stance a chance against any NATO military.\""
+  },
+  {
+    "id":"URW5.2",
+    "title":"The West belongs in the right side of history",
+    "description":"Statements that portray Western nations and their actions as morally superior and aligned with progress and justice and possess moral superiority. e.g. \"War in Ukraine showed that we have a fight between good and evil, and the west cannot be part of the evil side.\""
+  },
+  {
+    "id":"URW5.3",
+    "title":"The West has the strongest international support",
+    "description":"Statements that emphasize or claim widespread backing for Western policies and actions from the international community, potentially downplaying opposition or criticism. e.g. \"In the UN, Russia was thoroughly condemned and was wrong to stand against the much diplomatically stronger west.\""
+  },
+  {
+    "id":"URW6.",
+    "title":"Speculating war outcomes",
+    "description":"Statements that predict or make assumptions about the potential results or consequences of a conflict."
+  },
+  {
+    "id":"URW6.1",
+    "title":"Russian army is collapsing",
+    "description":"Statements that suggest or claim that the Russian military is experiencing a significant decline in its effectiveness, strength, or morale. e.g. \"Russia is pulling its tanks from the 80s, they are clearly in a state of collapse.\""
+  },
+  {
+    "id":"URW6.2",
+    "title":"Russian army will lose all the occupied territories",
+    "description":"Speculative statements that predict or assume the potential outcomes of the conflict, specifically regarding the possibility of the Russian military losing control of all the territories it currently occupies. e.g. \"Russian military is in a horrible state, it is a matter of time before Ukraine recaptures Crimea and Donbdass.\""
+  },
+  {
+    "id":"URW6.3",
+    "title":"Ukrainian army is collapsing",
+    "description":"Statements that suggest or claim that the Ukrainian military is experiencing a significant decline in its effectiveness, strength, or morale. e.g. \"With Ukraine out of ammunition, the Ukrainian front will not be there for long.\""
+  },
+  {
+    "id":"URW7.",
+    "title":"Discrediting the West, Diplomacy",
+    "description":"Statements that criticize the Western countries, or international diplomatic efforts. Look for criticism or negative portrayals of Western governments, leaders, or policies. Pay attention to language that suggests incompetence, hypocrisy, or malice. e.g. \"The West is hypocritical in its foreign policy.\", \"Western diplomacy has failed in resolving conflicts.\", \"International organizations will not solve anything because...\""
+  },
+  {
+    "id":"URW7.1",
+    "title":"The EU is divided",
+    "description":"Statements that present the EU as a set of divided entities and interests, usually unable to take actions. e.g. \"The European Council will never vote on sanctions for Russia, since they cannot agree on even the simplest of the issues.\""
+  },
+  {
+    "id":"URW7.2",
+    "title":"The West is weak",
+    "description":"Statements presenting the West overall as a non-potent group of countries (that is not as powerful as it used to be). e.g. \"The weakened West is once again impotent to act in front of the will Russia.\""
+  },
+  {
+    "id":"URW7.3",
+    "title":"The West is overreacting",
+    "description":"Statements that claim that the West and its institutions are reacting to Russia’s actions in a disproportionate manner. e.g. \"Putin did not invade the EU but Ukraine. Imposing harsh sanctions is not the way to deal with it, dialogue and debate is.\""
+  },
+  {
+    "id":"URW7.4",
+    "title":"The West does not care about Ukraine, only about its interests",
+    "description":"Statements that claim that the West is only interested in Ukraine for its own benefits, disregarding the country’s fate. e.g. \"The West has indebted Ukraine more than XX bln of dollars, a lucrative deal for western companies to exploit.\", \"NATO’s actions are endangering global security.\""
+  },
+  {
+    "id":"URW7.5",
+    "title":"Diplomacy does\/will not work",
+    "description":"Statements discrediting the potential of ongoing or potential diplomatic efforts. e.g. \"Diplomats are desperately trying to figure out solutions but now it’s too late, they have failed and Russia is free to do whatever."
+  },
+  {
+    "id":"URW7.6",
+    "title":"West is tired of Ukraine",
+    "description":"Claims that Western countries, particularly the United States and European nations, are becoming fatigued or disinterested in supporting Ukraine and its efforts. e.g. \"In European capitals, the idea of funding Ukraine without progress on the battlefield has started loosing the already small support.\""
+  },
+  {
+    "id":"URW8.",
+    "title":"Negative Consequences for the West",
+    "description":"Statements that highlight or predict adverse outcomes for Western countries and their interests. Identify predictions or reports of negative impacts on Western nations. Consider both current and future consequences mentioned. e.g. \"Sanctions against Russia will backfire on Europe.\", \"The West is headed for an economic downturn.\""
+  },
+  {
+    "id":"URW8.1",
+    "title":"Sanctions imposed by Western countries will backfire",
+    "description":"Statements that catastrophize on the possible negative effects for Western sanctions of Russia. e.g.\"The winter is going to be cold and with current gas prices, we are talking of societal unrest.\""
+  },
+  {
+    "id":"URW8.2",
+    "title":"The conflict will increase the Ukrainian refugee flows to Europe",
+    "description":"Statements that catastrophize on the possible refugee outflows due to the conflict. e.g. \"Like we did not have refugees from the Middle East, now we will have Ukrainians stressing our housing and healthcare problems.\""
+  },
+  {
+    "id":"URW9.",
+    "title":"Distrust towards Media",
+    "description":"Statements that question the reliability or integrity of media organizations. Look for language that undermines confidence in media sources. Pay attention to claims of bias, misinformation,or manipulation. e.g. \"Western media is spreading propaganda.\", \"You can’t trust what the news says about Russia.\""
+  },
+  {
+    "id":"URW9.1",
+    "title":"Western media is an instrument of propaganda",
+    "description":"Statements that discredit the media institutions of the West and claim that they are instruments of propaganda. e.g. \"... but you wouldn’t hear this on a western channel, only the party line from State Department.\""
+  },
+  {
+    "id":"URW9.2",
+    "title":"Ukrainian media cannot be trusted",
+    "description":"Statements that discredit the media institutions of the Ukraine and claim that they should not be trusted for reporting on the war. e.g. \"Ukraine is conducting its own propaganda using their TV channels, news and social media.\""
+  },
+  {
+    "id":"URW10.",
+    "title":"Amplifying war-related fears",
+    "description":"Statements that evoke fear or anxiety about potential threats, dangers or reactions. dentify language designed to elicit fear or concern about severe consequences. Consider both direct and implied threats mentioned. e.g. \"The West is pushing us towards World War III.\", \"It is a matter of time before war speads on the West\", \"Nuclear war is imminent\""
+  },
+  {
+    "id":"URW10.1",
+    "title":"By continuing the war we risk WWIII",
+    "description":"Statements that warn against upsetting Russia’s and its leadership, evoking fear of causing WW3. e.g. \"The Western elites with their fixation on Russia are sleapwalking towards WW3\""
+  },
+  {
+    "id":"URW10.2",
+    "title":"Russia will also attack other countries",
+    "description":"Statements that claim that it is imminent that Russia will attack other countries. e.g. \"... and be sure, Ukraine is the first not the last country to be invaded. Others will follow.\""
+  },
+  {
+    "id":"URW10.3",
+    "title":"There is a real possibility that nuclear weapons will be employed",
+    "description":"Statements that evoke fear or anxiety about the use of nuclear weapons. This narrative can potentially go in two directions, either claiming that West should not anger Russia, or that Russia should be stopped before they use them. e.g. \"... and if Western hypocrisy continues to provoke, Putin might be forced to press the red button. . . for good\""
+  },
+  {
+    "id":"URW10.4",
+    "title":"NATO should\/will directly intervene",
+    "description":"Statements that suggest or claim that the North Atlantic Treaty Organization (NATO) ought to or will take direct military action in a conflict, potentially implying a shift in policy or strategy. e.g. \"If Russia continues to bully neighboring countries it migh leave NATO no other choice but to come and intervene, in any possible way.\""
+  },
+  {
+    "id":"URW11.",
+    "title":"Hidden plots by secret schemes of powerful groups",
+    "description":"Statements that suggest hidden plots or secretive actions by powerful groups related to the war. Look for narratives involving clandestine activities, secret agendas, or unproven allegations. Focus on claims that lack credible evidence and suggest hidden motives. e.g. \"There’s a secret plan by the elites to control global resources.\", \"The war is just a cover for something much bigger.\""
+  }
+]

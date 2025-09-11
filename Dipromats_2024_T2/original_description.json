@@ -1,0 +1,98 @@
+[
+  {
+    "narrative":"CH1",
+    "result":"Tweets depict the West, primarily the US, as immoral and hostile, positioning. China may appear as a victim of Western reckless behavior."
+  },
+  {
+    "narrative":"CH2",
+    "result":"This narrative highlights China's cooperative stance, emphasizing support for justice, international law, security, multilateralism and economic development in other nations, and pursuit of mutual benefits. Through this narrative, China may promote a system in which every country will participate and contribute to decide the fate of the world. One of the Chinese motos is a community of a shared destiny for mankind."
+  },
+  {
+    "narrative":"CH3",
+    "result":"This narrative showcases China's historical resilience, domestically and internationally. It also shows that China was unfairly treated in the past and had to go through many adversities. The overcoming of adversities may be attributed to the Chinese Communist Party's governance."
+  },
+  {
+    "narrative":"CH4",
+    "result":"Tweets associated with this narrative Advocates the political system of China. Sometimes explicitly referring to socialism with Chinese characteristics. This system is portrayed as aligned with the will of the Chinese people and championing genuine democracy. Chinese government has honorable values and its management is morally upright. Note that in this narrative the promotion of Chinese values is linked to domestic affairs, which differentiates it from CH2, that addresses China’s international role."
+  },
+  {
+    "narrative":"CH5",
+    "result":"Focuses on the government's role in driving development within China, fostering minority coexistence within China, and positioning China at the forefront economically, technologically, and socially."
+  },
+  {
+    "narrative":"CH6",
+    "result":"Tweets within this narrative promote Chinese society, traditions and natural beauty."
+  },
+  {
+    "narrative":"EU1",
+    "result":"Showcases EU's successful history, which may entail showing how it overcome obstacles and differences among EU members It highlights past, honest cooperation among partners. It points at historical mistakes/traumas, which may show acknowledgment and regret but also at that the EU has learnt from these dramatic experiences."
+  },
+  {
+    "narrative":"EU2",
+    "result":"Emphasizes the EU's current ability to reach agreements and remain united despite internal discrepancies, showcasing solidarity among member states and a genuine European sentiment across EU societies."
+  },
+  {
+    "narrative":"EU3",
+    "result":"Promotes EU policies and recommendations, It highlights how the EU addresses its citizens’ concerns It shows that the EU keeps a practical and proactive approach, in contrast to criticism for being too bureaucratic or passive to perform timely. It shows that European measures improve the lives of Europeans. Note that this narrative refers exclusively to issues within the EU. EU5 and EU6 narratives cover EU’s actions abroad."
+  },
+  {
+    "narrative":"EU4",
+    "result":"Positions the EU as a pioneer in regulation and tackling present and future challenges like climate change and digitalization."
+  },
+  {
+    "narrative":"EU5",
+    "result":"Showcases the EU's leadership in defending democracy, human rights, gender and minority rights, and repressed communities, etc."
+  },
+  {
+    "narrative":"EU6",
+    "result":"Illustrates the EU's contributions to development, peace, multilateralism, cooperation, safety, and well-being globally, particularly as a key partner for neighboring societies."
+  },
+  {
+    "narrative":"RU1",
+    "result":"Tweets under this narrative depict the West and their allies (such as Ukraine), particularly the US, as immoral and hostile actors. The West-sponsored liberal order would be decadent. Russia and its citizens would be a victim of Western immoral behavior."
+  },
+  {
+    "narrative":"RU2",
+    "result":"Showcases Russia's advocacy for a fairer, more multilateral system, promoting cooperation outside Western influence. Non-Western cooperation is highlighted as an example Russia upholds true multilateralism, based on the respect of national sovereignty"
+  },
+  {
+    "narrative":"RU3",
+    "result":"Emphasizes Russia's role in promoting peace, solidarity, and development, positioning it as a reliable partner for just causes."
+  },
+  {
+    "narrative":"RU4",
+    "result":"Highlights Russia's historical contributions and influence on global history across scientific, cultural, military, and economic realms. Tweets show how Russia has always been a trend-setter for the rest of the world."
+  },
+  {
+    "narrative":"RU5",
+    "result":"Showcases Russia's current successes across economic, military, scientific, societal, political, and technological domains."
+  },
+  {
+    "narrative":"RU6",
+    "result":"Tweets within this narrative promote Russian society, traditions and natural beauty."
+  },
+  {
+    "narrative":"US1",
+    "result":"Showcases the values of the US, which are commonly presented as a legacy, a result of the long tradition of the country. Showcases the historical feats of this country"
+  },
+  {
+    "narrative":"US2",
+    "result":"Promotes the different ethnic groups of the country, its civil society, its companies and its military heroes."
+  },
+  {
+    "narrative":"US3",
+    "result":"Highlights immoral adversaries. These may be seen as obstacles to global peace and liberal values, ultimately posing a threat to the US."
+  },
+  {
+    "narrative":"US4",
+    "result": "Showcases American support for human rights, freedoms, oppressed peoples, and its efforts toward peace, development, and security."
+  },
+  {
+    "narrative":"US5",
+    "result":"Emphasizes the US's unwavering support for allies and praises allied countries."
+  },
+  {
+    "narrative":"US6",
+    "result":"Positions the US as a leader in various domains, including economy, technology, military, and trade."
+  }
+]
